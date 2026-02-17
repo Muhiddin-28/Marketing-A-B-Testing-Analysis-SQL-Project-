@@ -99,6 +99,31 @@ Concentrate ad budget during afternoon and evening hours.
 
 ---
 
+
+
+
+
+├── data/
+│   └── ab_marketing.csv
+│
+├── sql/
+│   ├── 01_data_validation.sql
+│   ├── 02_ab_test_conversion.sql
+│   ├── 03_statistical_significance.sql
+│   ├── 04_frequency_analysis.sql
+│   ├── 05_time_analysis.sql
+│   └── 06_final_recommendations.sql
+│
+├── README.md
+|
+├── reports/
+│   └── insights_summary.md
+│
+└── dashboards/
+    └── power_bi_screenshots/
+
+---
+
 ##  Tools Used
 - PostgreSQL (SQL analysis)  
 - A/B testing methodology  
