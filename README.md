@@ -1,6 +1,6 @@
-# 📊 Marketing A/B Testing Analysis (SQL Project)
+#  Marketing A/B Testing Analysis (SQL Project)
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes a **marketing A/B test experiment** to measure the **causal impact of advertising** on user conversions.  
 Users were randomly split into two groups:
 - **Ad group (treatment)** – users who saw advertisements  
@@ -13,7 +13,7 @@ The goal is to determine:
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 The dataset represents a real-world A/B testing scenario with user-level data.
 
 ### Key Columns
@@ -28,7 +28,7 @@ The dataset represents a real-world A/B testing scenario with user-level data.
 
 ---
 
-## 🔍 Analysis Workflow
+##  Analysis Workflow
 
 ### 1️⃣ Data Validation
 - Checked missing values
@@ -86,20 +86,20 @@ Concentrate ad budget during afternoon and evening hours.
 
 ---
 
-## ✅ Final Recommendations
-- ✅ Continue advertising campaigns  
-- 🎯 Apply a **frequency cap (10–15 ads)**  
-- ⏰ Schedule ads mainly between **2 PM and 9 PM**  
-- ⚠️ Avoid interpreting very high exposure results without bias checks  
+##  Final Recommendations
+-  Continue advertising campaigns  
+-  Apply a **frequency cap (10–15 ads)**  
+-  Schedule ads mainly between **2 PM and 9 PM**  
+-  Avoid interpreting very high exposure results without bias checks  
 
 ---
 
-## 🧠 Key Takeaway
+##  Key Takeaway
 > Advertising works, but only when delivered at the **right frequency** and the **right time**.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - PostgreSQL (SQL analysis)  
 - A/B testing methodology  
 - Statistical reasoning  
