@@ -114,8 +114,6 @@ Concentrate ad budget during afternoon and evening hours.
 │
 ├── README.md
 |
-├── reports/
-    └── insights_summary.md
 
 ```
 ---
