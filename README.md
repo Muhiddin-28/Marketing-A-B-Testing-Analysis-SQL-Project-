@@ -110,7 +110,6 @@ Concentrate ad budget during afternoon and evening hours.
 │   ├── 03_statistical_significance.sql
 │   ├── 04_frequency_analysis.sql
 │   ├── 05_time_analysis.sql
-│   └── 06_final_recommendations.sql
 │
 ├── README.md
 
