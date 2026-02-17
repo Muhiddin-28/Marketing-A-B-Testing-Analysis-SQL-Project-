@@ -99,10 +99,8 @@ Concentrate ad budget during afternoon and evening hours.
 
 ---
 
-
-
-
-
+# PROJECT FOLDER STRUCTURE
+```
 ├── data/
 │   └── ab_marketing.csv
 │
@@ -117,11 +115,9 @@ Concentrate ad budget during afternoon and evening hours.
 ├── README.md
 |
 ├── reports/
-│   └── insights_summary.md
-│
-└── dashboards/
-    └── power_bi_screenshots/
+    └── insights_summary.md
 
+```
 ---
 
 ##  Tools Used
