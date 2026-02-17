@@ -102,7 +102,7 @@ Concentrate ad budget during afternoon and evening hours.
 # PROJECT FOLDER STRUCTURE
 ```
 ├── data/
-│   └── ab_marketing.csv
+│   └── marketing_.csv
 │
 ├── sql/
 │   ├── 01_data_validation.sql
