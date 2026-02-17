@@ -113,7 +113,6 @@ Concentrate ad budget during afternoon and evening hours.
 │   └── 06_final_recommendations.sql
 │
 ├── README.md
-|
 
 ```
 ---
