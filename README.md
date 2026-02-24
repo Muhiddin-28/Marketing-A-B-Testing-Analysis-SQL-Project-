@@ -52,13 +52,13 @@ Compared conversion rates between Ad and PSA groups.
 ---
 
 ### 3️⃣ Statistical Significance
-Verified that the observed conversion difference is **not due to random noise**.
-
-- Conversion lift is much larger than standard error  
-- Result is statistically significant  
-
-**Conclusion:** The advertising effect is real and reliable.
-
+| Metric | Value |
+|--------|-------|
+| Z-Score | 8.66 |
+| P-Value | < 0.00001 |
+| 95% CI | [0.0059, 0.0094] |
+| Verdict | Significant (p < 0.05) |
+**Interpretation:** The 0.77% lift is REAL, not random chance.
 ---
 
 ### 4️⃣ Frequency Analysis (Ad Exposure)
