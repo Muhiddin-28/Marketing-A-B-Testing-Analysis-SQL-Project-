@@ -58,7 +58,10 @@ Compared conversion rates between Ad and PSA groups.
 | P-Value | < 0.00001 |
 | 95% CI | [0.0059, 0.0094] |
 | Verdict | Significant (p < 0.05) |
+
+
 **Interpretation:** The 0.77% lift is REAL, not random chance.
+
 ---
 
 ### 4️⃣ Frequency Analysis (Ad Exposure)
@@ -87,15 +90,18 @@ Concentrate ad budget during afternoon and evening hours.
 ---
 
 ##  Final Recommendations
--  Continue advertising campaigns  
--  Apply a **frequency cap (10–15 ads)**  
--  Schedule ads mainly between **2 PM and 9 PM**  
--  Avoid interpreting very high exposure results without bias checks  
+-  Continue advertising campaigns (+0.77% lift)
+
+-  Apply frequency cap (10-15 ads)
+
+-  Schedule ads between 2 PM – 9 PM
+
+-  Avoid very high exposure (21+ ads) 
 
 ---
 
 ##  Key Takeaway
-> Advertising works, but only when delivered at the **right frequency** and the **right time**.
+ Advertising works, but only at the right frequency (10-15 ads) and right time (2-9 PM). The +0.77% lift is statistically significant (Z-score = 8.66).
 
 ---
 
